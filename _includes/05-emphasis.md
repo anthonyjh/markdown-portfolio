@@ -1,1 +1,1 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+_I have programmed in **Java, Ruby on Rails, C++ and C**_    :+1: 
